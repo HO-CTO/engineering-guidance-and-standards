@@ -1,3 +1,3 @@
-# Your new project
+# Engineering Guidance and Standards has moved to the [UK Home Office Repository](https://github.com/UKHomeOffice/engineering-guidance-and-standards)
 
-Describe your project here.
+You can view the site at https://engineering.homeoffice.gov.uk.
