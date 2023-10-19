@@ -1,5 +1,7 @@
-## Purpose of pull request
-_Describe the feature and include a reference to the issues where possible._
+## This repository has been moved
 
-## How to test
-_Describe how you would test this change._
+Please submit Home Office guidance and standards pull requests to the new repository.
+
+https://github.com/UKHomeOffice/engineering-guidance-and-standards/compare
+
+This repository exists to host a page that redirects GitHub pages access 
